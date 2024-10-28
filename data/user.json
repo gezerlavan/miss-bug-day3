@@ -1,0 +1,27 @@
+[
+  {
+    "username": "admin",
+    "password": "admin",
+    "fullname": "Miss Bug",
+    "_id": "fLtg9",
+    "isAdmin": true
+  },
+  {
+    "_id": "u101",
+    "username": "ruki",
+    "password": "ruki1",
+    "fullname": "Ruki The Rock"
+  },
+  {
+    "_id": "oLRch",
+    "fullname": "risan ben",
+    "password": "risan",
+    "username": "risan"
+  },
+  {
+    "_id": "cQMMn",
+    "fullname": "gigi gu",
+    "password": "123",
+    "username": "gjg"
+  }
+]
